@@ -13,3 +13,5 @@ Here are the projects that I wanna make it.
 + 快捷memo工具，在工作中，经常会丢新需求过来。上tapd/trello/tower看会相应的耗时间。目前我没有找到有工具可以直接用从系统托盘打开todo list的。做一个todo list，可以用快捷键直接打开，并可以仅用键盘就完成简单的增删查改，等基本操作。减少分散注意力。
 + cerebro的插件，转换时间戳。alfred是收费的。
 + cerebro的插件，把上面的memo做在cerebro，然后用wunderlist等的API来完成。
++ http://vyte.in/ 中国版
++ http://worklife.com/ 中国版
