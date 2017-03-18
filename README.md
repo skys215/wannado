@@ -16,3 +16,5 @@ Here are the projects that I wanna make it.
 + cerebro的插件，把上面的memo做在cerebro，然后用wunderlist等的API来完成。
 + http://vyte.in/ 中国版
 + http://worklife.com/ 中国版
++ 吾日三省吾身 反省app（其实就是填空日记）、帮忙做决策的软件&&橡皮鸭调式法app（其实就是会问你几个问题，帮助你做决定)。其实可以归结于app反问你。
++ 交通社区app（某群要求）
