@@ -11,6 +11,7 @@ Here are the projects that I wanna make it.
 + http://subasub.com/ 中文版 http://www.quodb.com/
 + http://vyte.in/ 中国版
 + http://worklife.com/ 中国版
++ 给在中国生活的外国人的生活门户网站，交流生活经验等。可加入电商等。
 
 
 # 插件/小工具
