@@ -17,7 +17,7 @@ Here are the projects that I wanna make it.
 # 插件/小工具
 
 + 快捷memo工具，在工作中，经常会丢新需求过来。上tapd/trello/tower看会相应的耗时间。目前我没有找到有工具可以直接用从系统托盘打开todo list的。做一个todo list，可以用快捷键直接打开，并可以仅用键盘就完成简单的增删查改，等基本操作。减少分散注意力。
- http://todolist.site/ 参考。可以用meteor做手机客户端/网站。就算在命令行添加任务，也能同步到手机上了，哈哈。
+ http://todolist.site/ 参考。可以用meteor做手机客户端/网站。就算在命令行添加任务，也能同步到手机上了，哈哈。qt-windows版即将上线，mac版等会儿。
 + TIL CLI(A command line to save the commands that you learned. Just simply add `til` before the command and it will store to the github(if possible)
 + PageListenAndTrack 可以监听页面某部分，当该部分发生变化时，弹出提示。（调用chrome api） 作用，daocloud build代码时。也可以做成社区，共享监听部分。
 
