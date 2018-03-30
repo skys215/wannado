@@ -13,6 +13,8 @@ Here are the projects that I wanna make it.
 + http://worklife.com/ 中国版
 + 给在中国生活的外国人的生活门户网站，交流生活经验等。可加入电商等。参考列表：https://shimo.im/doc/V9Qr2I0Bx4Qv9DZo
 + 一直想做个命令行式的web界面，今天被我碰见了：[Bearjoy](http://www.bearjoy.com/)
++ 一个分享恶心代码的图片网站
++ debug代码视频集合
 
 ## 插件/小工具
 
