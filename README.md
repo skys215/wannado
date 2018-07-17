@@ -37,7 +37,7 @@ Here are the projects that I wanna make it.
 
 # 公众号
 + 公众号收藏夹，用于收藏不常用的公众号。
-+ 公众号聚合阅读器。可以只通过一个公众号来收到不同公众号的消息。
++ 公众号聚合阅读器。可以只通过一个公众号来收到不同公众号的消息。[WeRSS](https://werss.app/)
 
 # wanted to do
 + [表态](https://itunes.apple.com/cn/app/id1134616645) 投票平台，让别人帮你做决定/听听别人的看法
