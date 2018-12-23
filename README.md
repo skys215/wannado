@@ -25,7 +25,7 @@ Here are the projects that I wanna make it.
 + PageListenAndTrack 可以监听页面某部分，当该部分发生变化时，弹出提示。（调用chrome api） 作用，daocloud build代码时。也可以做成社区，共享监听部分。类似插件：[openwebmonitor](http://openwebmonitor.netqon.com/)
 + 表情在线搜索工具。目前有很多搜索表情的网站，想找个表情逛多个网站不现实，所以做个集合工具，用快捷键调出工具，进行搜索就可以复制。
 + 高亮那些你很久没有打开的标签，促使你浏览/关闭/收藏 长时间没有“打开”的标签。
-+ 扫描二维码工具、桌面端。虽然听起来没什么用，但到想用的时候就知道有多好用了吧。
++ 扫描二维码工具、桌面端。虽然听起来没什么用，但到想用的时候就知道有多好用了吧。[utools](https://www.appinn.com/utools/)
 
 ## App
 + 吾日三省吾身 反省app（其实就是填空日记）、帮忙做决策的软件&&橡皮鸭调式法app（其实就是会问你几个问题，帮助你做决定)。其实可以归结于反问你的一个app。https://wl879.github.io/post/answer-app/
