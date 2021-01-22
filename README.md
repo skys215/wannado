@@ -15,6 +15,12 @@ Here are the projects that I wanna make it.
 + 一直想做个命令行式的web界面，今天被我碰见了：[Bearjoy](http://www.bearjoy.com/)
 + 一个分享恶心代码的图片网站
 + debug代码视频集合
++ 批量给图片加水印的工具
++ 状态页服务
++ 电脑版小程序
++ 需求库
++ excel转API/小程序
++ yaml/conf/ini/.env编辑器
 
 ## 插件/小工具
 
