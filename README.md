@@ -35,7 +35,7 @@ Here are the projects that I wanna make it.
 + 音乐网站添加劲舞团游戏插件
 
 ## App
-+ 吾日三省吾身 反省app（其实就是填空日记）、帮忙做决策的软件&&橡皮鸭调式法app（其实就是会问你几个问题，帮助你做决定)。其实可以归结于反问你的一个app。参考：https://wl879.github.io/post/answer-app/ 、[洒脱](https://apps.apple.com/cn/app/id1208169858)
++ 吾日三省吾身 反省app（其实就是填空日记）、帮忙做决策的软件&&橡皮鸭调式法app（其实就是会问你几个问题，帮助你做决定)。其实可以归结于反问你的一个app。参考：https://wl879.github.io/post/answer-app/ 、[洒脱](https://apps.apple.com/cn/app/id1208169858)、（https://apps.apple.com/app/apple-store/id1538554937）
 + 交通社区app（某群要求）
 + vkdb.jp App
 + 反社交工具。类似与微博、朋友圈，但是大家都可以看。如果你不想看，就得添加它为好友（or黑名单）。你发布的东西你加的人都不能看。
