@@ -27,7 +27,7 @@ Here are the projects that I wanna make it.
 + 快捷memo工具，在工作中，经常会丢新需求过来。上tapd/trello/tower看会相应的耗时间。目前我没有找到有工具可以直接用从系统托盘打开todo list的。做一个todo list，可以用快捷键直接打开，并可以仅用键盘就完成简单的增删查改，等基本操作。减少分散注意力。
  http://todolist.site/ 参考。可以用meteor做手机客户端/网站。就算在命令行添加任务，也能同步到手机上了，哈哈。qt-windows版上线了[B4L
 ](https://github.com/skys215/B4L)，mac版等会儿。相似工具：[Tyke](http://tyke.io/), [Must do list](https://itunes.apple.com/us/app/must-do-list/id1286494421)
-+ TIL CLI(A command line to save the commands that you learned. Just simply add `til` before the command and it will store to the github(if possible)
++ TIL CLI(A command line to save the commands that you learned. Just simply add `til` before the command and it will store to the github(if possible)(类似插件：[Atuin](https://github.com/atuinsh/atuin))
 + PageListenAndTrack 可以监听页面某部分，当该部分发生变化时，弹出提示。（调用chrome api） 作用，daocloud build代码时。也可以做成社区，共享监听部分。类似插件：[openwebmonitor](http://openwebmonitor.netqon.com/)
 + 表情在线搜索工具。目前有很多搜索表情的网站，想找个表情逛多个网站不现实，所以做个集合工具，用快捷键调出工具，进行搜索就可以复制。
 + 高亮那些你很久没有打开的标签，促使你浏览/关闭/收藏 长时间没有“打开”的标签。
